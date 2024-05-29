@@ -1,0 +1,7 @@
+data = {
+	'date': ['2021-12-01', '01-12-2022', '2022/12/01', '12-01-2021'],
+        'country': ['USA', 'U.S.A', 'America', 'United States'],
+	'name': ['John Doe', 'Jonh Doe', 'Jane Doe', 'Jane Doe'],
+	'sales_2020': [100, 200, None, 200],
+	'sales_2021': [None, 150, 300, 150]  
+}
